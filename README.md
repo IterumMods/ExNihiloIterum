@@ -1,25 +1,14 @@
-![CurseForge Downloads](https://img.shields.io/curseforge/dt/400012?style=for-the-badge&logo=curseforge)
-![CurseForge Downloads](https://img.shields.io/curseforge/game-versions/400012?style=for-the-badge&logo=curseforge)
-![Modrinth Downloads](https://img.shields.io/modrinth/dt/WhVa4xyw?style=for-the-badge&logo=modrinth)
-![Modrinth Downloads](https://img.shields.io/modrinth/game-versions/WhVa4xyw?style=for-the-badge&logo=modrinth)
 ![Static Badge](https://img.shields.io/badge/license-CC_BY--NC--SA_4.0-green?style=for-the-badge)
-![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/NovaMachina-Mods/ExNihiloSequentia?style=for-the-badge&logo=github)
-![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/NovaMachina-Mods/ExNihiloSequentia/build_1_20.yaml?style=for-the-badge&logo=github&label=1.20%20Build)
-![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/NovaMachina-Mods/ExNihiloSequentia/build_1_20_dev.yaml?style=for-the-badge&logo=github&label=1.20-dev%20Build)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/IterumMods/ExNihiloIterum?style=for-the-badge&logo=github)
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/IterumMods/ExNihiloIterum/build_1_21.yaml?style=for-the-badge&logo=github&label=Build)
 
-# Ex Nihilo: Sequentia
+# Ex Nihilo: Iterum
 
-Ex Nihilo: Sequentia is a modern port of Ex Nihilo: Creatio for 1.12, which in turn was a fork of Ex Nihilo: Adscensio for 1.10, which was a continuation of Ex Nihilo for 1.7.10.
-
-# Discord
-
-Ex Nihilo: Sequentia is on the NovaMachina Mods [discord server](https://discord.gg/CJyAkuw) where you can chat with other Ex Nihilo: Sequentia users and the developers.
-
-[![Discord](https://img.shields.io/discord/749057733709267005?style=for-the-badge&logo=discord)](https://discord.gg/CJyAkuw)
+Ex Nihilo: Iterum is a continuation of Ex Nihilo: Sequentia, which was a modern port of Ex Nihilo: Creatio for 1.12, which in turn was a fork of Ex Nihilo: Adscensio for 1.10, which was a continuation of Ex Nihilo for 1.7.10.
 
 # Translating
 
-If you would like to help translate Ex Nihilo: Sequentia, please create a pull request with your translation.
+If you would like to help translate Ex Nihilo: Iterum, please create a pull request with your translation.
 
 # License
 
